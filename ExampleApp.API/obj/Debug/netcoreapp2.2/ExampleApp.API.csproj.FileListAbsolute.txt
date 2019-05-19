@@ -1,0 +1,17 @@
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.API.deps.json
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.API.runtimeconfig.json
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.API.runtimeconfig.dev.json
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.API.dll
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.API.pdb
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.DAL.dll
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\bin\Debug\netcoreapp2.2\ExampleApp.DAL.pdb
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.csprojAssemblyReference.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.csproj.CoreCompileInputs.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.RazorAssemblyInfo.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.RazorAssemblyInfo.cs
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.AssemblyInfoInputs.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.AssemblyInfo.cs
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.csproj.CopyComplete
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.dll
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.API\obj\Debug\netcoreapp2.2\ExampleApp.API.pdb

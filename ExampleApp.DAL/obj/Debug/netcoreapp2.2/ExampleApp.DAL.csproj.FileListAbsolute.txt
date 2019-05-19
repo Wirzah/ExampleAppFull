@@ -1,0 +1,9 @@
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\bin\Debug\netcoreapp2.2\ExampleApp.DAL.deps.json
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\bin\Debug\netcoreapp2.2\ExampleApp.DAL.dll
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\bin\Debug\netcoreapp2.2\ExampleApp.DAL.pdb
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\obj\Debug\netcoreapp2.2\ExampleApp.DAL.csprojAssemblyReference.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\obj\Debug\netcoreapp2.2\ExampleApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\obj\Debug\netcoreapp2.2\ExampleApp.DAL.AssemblyInfoInputs.cache
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\obj\Debug\netcoreapp2.2\ExampleApp.DAL.AssemblyInfo.cs
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\obj\Debug\netcoreapp2.2\ExampleApp.DAL.dll
+C:\Users\mirza\Downloads\ExampleApp.Full\ExampleApp.Full\ExampleApp.DAL\obj\Debug\netcoreapp2.2\ExampleApp.DAL.pdb
